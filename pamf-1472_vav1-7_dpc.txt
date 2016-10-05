@@ -1,0 +1,2 @@
+0 - 2015-11-13 00:30:09+00:00 - Setting final result to : 2
+1 - 2015-11-13 00:30:09+00:00 - Adding result message : Test could not run due to invalid prerequisite: Duct static pressure of 0.16 inches fell below threshold of 0.25.

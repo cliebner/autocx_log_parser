@@ -1,0 +1,17 @@
+0 - 2015-11-12 22:41:59+00:00 - Starting DCR
+1 - 2015-11-12 22:41:59+00:00 - Test Starting
+2 - 2015-11-12 22:42:27+00:00 - Making first sets
+3 - 2015-11-12 22:42:28+00:00 - Acquiring Locks
+4 - 2015-11-12 22:42:28+00:00 - Making Locks
+5 - 2015-11-12 22:43:19+00:00 - Stopping lock PSR DCRs
+6 - 2015-11-12 22:43:33+00:00 - Making first sets
+7 - 2015-11-12 22:43:33+00:00 - Performing First Set(s)
+8 - 2015-11-12 22:44:24+00:00 - Stopping first set PSR DCRs
+9 - 2015-11-12 23:05:34+00:00 - Making second sets
+10 - 2015-11-12 23:05:34+00:00 - Making second set(s)
+11 - 2015-11-12 23:05:41+00:00 - Stopping second set PSR DCRs
+12 - 2015-11-12 23:05:53+00:00 - Stopping DCR
+13 - 2015-11-12 23:05:54+00:00 - Second set complete. Making un-sets.
+14 - 2015-11-12 23:06:01+00:00 - Tagging first analysis point time: Thu Nov 12 22:45:01 2015
+15 - 2015-11-12 23:06:01+00:00 - Tagging second analysis point time: Thu Nov 12 23:04:01 2015
+16 - 2015-11-12 23:06:01+00:00 - Test analysis complete. Result: failed

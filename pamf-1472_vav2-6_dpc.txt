@@ -1,0 +1,52 @@
+0 - 2015-11-12 23:06:07+00:00 - Starting DCR
+1 - 2015-11-12 23:06:07+00:00 - Test Starting
+2 - 2015-11-12 23:06:19+00:00 - Making first sets
+3 - 2015-11-12 23:06:19+00:00 - Acquiring Locks
+4 - 2015-11-12 23:06:19+00:00 - Making Locks
+5 - 2015-11-12 23:07:21+00:00 - Stopping lock PSR DCRs
+6 - 2015-11-12 23:07:28+00:00 - Making first sets
+7 - 2015-11-12 23:07:29+00:00 - Performing First Set(s)
+8 - 2015-11-12 23:08:21+00:00 - Stopping first set PSR DCRs
+9 - 2015-11-12 23:19:30+00:00 - Making second sets
+10 - 2015-11-12 23:19:30+00:00 - Making second set(s)
+11 - 2015-11-12 23:20:16+00:00 - Stopping second set PSR DCRs
+12 - 2015-11-12 23:21:52+00:00 - Stopping lock PSR DCRs
+13 - 2015-11-12 23:21:52+00:00 - Stopping first set PSR DCRs
+14 - 2015-11-12 23:21:53+00:00 - Stopping second set PSR DCRs
+15 - 2015-11-12 23:21:53+00:00 - Stopping DCR
+16 - 2015-11-12 23:21:53+00:00 - Prerequisite(s) became invalid. Making un-sets.
+17 - 2015-11-12 23:31:55+00:00 - Starting DCR
+18 - 2015-11-12 23:31:55+00:00 - Test Starting
+19 - 2015-11-12 23:32:09+00:00 - Making first sets
+20 - 2015-11-12 23:32:09+00:00 - Acquiring Locks
+21 - 2015-11-12 23:32:09+00:00 - Making Locks
+22 - 2015-11-12 23:33:24+00:00 - Stopping lock PSR DCRs
+23 - 2015-11-12 23:33:34+00:00 - Making first sets
+24 - 2015-11-12 23:33:34+00:00 - Performing First Set(s)
+25 - 2015-11-12 23:34:19+00:00 - Stopping first set PSR DCRs
+26 - 2015-11-12 23:45:29+00:00 - Making second sets
+27 - 2015-11-12 23:45:29+00:00 - Making second set(s)
+28 - 2015-11-12 23:46:21+00:00 - Stopping second set PSR DCRs
+29 - 2015-11-12 23:50:34+00:00 - Stopping lock PSR DCRs
+30 - 2015-11-12 23:50:34+00:00 - Stopping first set PSR DCRs
+31 - 2015-11-12 23:50:34+00:00 - Stopping second set PSR DCRs
+32 - 2015-11-12 23:50:34+00:00 - Stopping DCR
+33 - 2015-11-12 23:50:34+00:00 - Prerequisite(s) became invalid. Making un-sets.
+34 - 2015-11-13 00:00:38+00:00 - Starting DCR
+35 - 2015-11-13 00:00:38+00:00 - Test Starting
+36 - 2015-11-13 00:00:50+00:00 - Making first sets
+37 - 2015-11-13 00:00:51+00:00 - Acquiring Locks
+38 - 2015-11-13 00:00:51+00:00 - Making Locks
+39 - 2015-11-13 00:01:19+00:00 - Stopping lock PSR DCRs
+40 - 2015-11-13 00:01:25+00:00 - Making first sets
+41 - 2015-11-13 00:01:25+00:00 - Performing First Set(s)
+42 - 2015-11-13 00:02:22+00:00 - Stopping first set PSR DCRs
+43 - 2015-11-13 00:13:30+00:00 - Making second sets
+44 - 2015-11-13 00:13:31+00:00 - Making second set(s)
+45 - 2015-11-13 00:14:17+00:00 - Stopping second set PSR DCRs
+46 - 2015-11-13 00:23:29+00:00 - Stopping DCR
+47 - 2015-11-13 00:23:29+00:00 - Second set complete. Making un-sets.
+48 - 2015-11-13 00:23:38+00:00 - Tagging first analysis point time: Fri Nov 13 00:10:01 2015
+49 - 2015-11-13 00:23:38+00:00 - Tagging second analysis point time: Fri Nov 13 00:21:01 2015
+50 - 2015-11-13 00:23:38+00:00 - Test analysis complete. Result: passed
+

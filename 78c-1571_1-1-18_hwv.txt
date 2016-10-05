@@ -1,0 +1,19 @@
+0 - 2015-12-11 20:23:32+00:00 - Starting DCR
+1 - 2015-12-11 20:23:32+00:00 - Test Starting
+2 - 2015-12-11 20:24:16+00:00 - Making first sets
+3 - 2015-12-11 20:24:16+00:00 - Acquiring Locks
+4 - 2015-12-11 20:24:16+00:00 - Making Locks
+5 - 2015-12-11 20:25:11+00:00 - Stopping lock PSR DCRs
+6 - 2015-12-11 20:25:18+00:00 - Making first sets
+7 - 2015-12-11 20:25:18+00:00 - Performing First Set(s)
+8 - 2015-12-11 20:26:11+00:00 - Stopping first set PSR DCRs
+9 - 2015-12-11 20:32:23+00:00 - Making second sets
+10 - 2015-12-11 20:32:23+00:00 - Making second set(s)
+11 - 2015-12-11 20:33:08+00:00 - Stopping second set PSR DCRs
+12 - 2015-12-11 20:33:32+00:00 - Stopping lock PSR DCRs
+13 - 2015-12-11 20:33:32+00:00 - Stopping first set PSR DCRs
+14 - 2015-12-11 20:33:32+00:00 - Stopping second set PSR DCRs
+15 - 2015-12-11 20:33:32+00:00 - Stopping DCR
+16 - 2015-12-11 20:33:32+00:00 - Prerequisite(s) became invalid. Making un-sets.
+17 - 2015-12-11 20:43:25+00:00 - Setting final result to : 2
+18 - 2015-12-11 20:43:25+00:00 - Adding result message : Prerequisite failed during scheduled test: HotWaterPressure 3940: Building loop differential pressure of 4.87 fell below threshold of 5.0.
